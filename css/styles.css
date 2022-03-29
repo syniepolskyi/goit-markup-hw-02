@@ -63,7 +63,6 @@ body {
 /* посилання в елементах меню шапки */
 .nav-menu > li a {
   font-family: "Roboto";
-
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -89,7 +88,6 @@ body {
 /* посилання в елементах списку контакців шапки */
 .header ul.header-contact-list > li a {
   font-family: "Roboto";
-
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -238,7 +236,6 @@ body {
   margin: 0 auto;
   width: 696px;
   font-family: "Roboto";
-
   font-weight: 900;
   font-size: 44px;
   line-height: 136%;
@@ -286,6 +283,7 @@ body {
 /* елемент списку характеристик */
 .detail-list > li {
   min-width: 270px;
+  max-width: 270px;
   height: 101px;
 }
 
